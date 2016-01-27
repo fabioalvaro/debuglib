@@ -13,9 +13,8 @@
             "role": "Developer"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "": "src/"
-        }
-    }
+  "autoload": {
+    "psr-0": {"": "Debuglib/src/"},
+    "files": ["Debuglib/src/Debuglib.php"]
+  }
 }
