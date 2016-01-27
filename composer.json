@@ -12,7 +12,7 @@
             "homepage": "http://www.fabioalvaro.com.br",
             "role": "Developer"
         }
-    ]
+    ],
     "autoload": {
         "psr-4": {
             "": "src/"
