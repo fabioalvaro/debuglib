@@ -5,6 +5,7 @@
     "keywords": ["php","framework","easy","fabio","alvaro"],
     "homepage": "https://github.com/fabioalvaro/debuglib",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Fabio Alvaro Pereira",
